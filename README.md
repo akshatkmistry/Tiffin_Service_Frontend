@@ -72,9 +72,9 @@ Make sure a device (emulator or physical) is connected.
 
 ### Home Screen, Menu Screen, and Profile Screen
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/akshatkmistry/tiffin_service_frontend/assets/screenshots/home.png" alt="Home Screen" style="width: 30%;">
-  <img src="https://github.com/akshatkmistry/tiffin_service_frontend/assets/screenshots/home.png" alt="Menu Screen" style="width: 30%;">
-  <img src="https://github.com/akshatkmistry/tiffin_service_frontend/assets/screenshots/home.png" alt="Profile Screen" style="width: 30%;">
+  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Home Screen" style="width: 30%;">
+  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Menu Screen" style="width: 30%;">
+  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Profile Screen" style="width: 30%;">
 </div>
 
 ## 🤝 Contributing
