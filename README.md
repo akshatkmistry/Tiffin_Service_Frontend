@@ -70,11 +70,25 @@ Make sure a device (emulator or physical) is connected.
 
 ## 📸 Screenshots
 
+### Login Screen, Register Screen, and Code Verification Screen
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/Login.png" alt="Login Screen" style="width: 30%;">
+  <img src="assets/screenshots/Register.png" alt="Register Screen" style="width: 30%;">
+  <img src="assets/screenshots/Verify.png" alt="Code Verification Screen" style="width: 30%;">
+</div>
+
 ### Home Screen, Menu Screen, and Profile Screen
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Home Screen" style="width: 30%;">
-  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Menu Screen" style="width: 30%;">
-  <img src="https://github.com/akshatkmistry/Tiffin_Service_Frontend/assets/screenshots/home.png" alt="Profile Screen" style="width: 30%;">
+  <img src="assets/screenshots/home.png" alt="Home Screen" style="width: 30%;">
+  <img src="assets/screenshots/MenuScreen.png" alt="Menu Screen" style="width: 30%;">
+  <img src="assets/screenshots/profile.png" alt="Profile Screen" style="width: 30%;">
+</div>
+
+### Cart Screen, Checkout Screen, and Orders Screen
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/cart.png" alt="Cart Screen" style="width: 30%;">
+  <img src="assets/screenshots/checkout.png" alt="Checkout Screen" style="width: 30%;">
+  <img src="assets/screenshots/orders.png" alt="Orders Screen" style="width: 30%;">
 </div>
 
 ## 🤝 Contributing
