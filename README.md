@@ -34,8 +34,8 @@ More features (subscription plans, payments, etc.) are under development.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tiffin-service-frontend.git
-cd tiffin-service-frontend
+git clone https://github.com/akshatkmistry/Tiffin-Service-Frontend.git
+cd Tiffin-Service-Frontend
 ```
 
 ### 2. Install Dependencies
