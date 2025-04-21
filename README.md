@@ -99,5 +99,5 @@ Make sure a device (emulator or physical) is connected.
 For any queries, reach out via **GitHub Issues** or email at:  
 ✉️ **akshatkmistry007@gmail.com**  
 
-Happy Coding! 🎉
+Happy Coding!! 🎉
 
